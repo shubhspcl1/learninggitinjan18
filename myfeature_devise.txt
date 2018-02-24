@@ -1,1 +1,1 @@
-added devise to prject
+added devise to project
